@@ -8,9 +8,8 @@ A polyglot engineer obsessed with building high-performance, user-centric applic
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-969448129/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white)](https://ajay-dev-portfolio.vercel.app/)
 
 </div>
 
@@ -24,8 +23,6 @@ A polyglot engineer obsessed with building high-performance, user-centric applic
       <h4>Engineering Philosophy</h4>
       I specialize in scalable ecosystems spanning both the <strong>MERN</strong> and <strong>PERN</strong> stacks. From architecting robust cloud infrastructure on AWS and Azure to crafting fluid, animated frontends with GSAP and Framer Motion, I build comprehensive digital solutions. I leverage modern AI workflows (Claude Sonnet/Opus, Codex) to accelerate development without compromising on clean, maintainable code.
       <br/><br/>
-      <h4>Global Communication</h4>
-      Fluent in <strong>English, Hindi, Gujarati, and Telugu</strong>. This allows me to collaborate seamlessly with diverse engineering teams and design accessible applications for a global user base.
     </td>
     <td width="40%" valign="top">
       <h4>🌱 Current Spotlight: Ashraya</h4>
