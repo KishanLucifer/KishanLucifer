@@ -101,8 +101,9 @@ A polyglot engineer obsessed with building high-performance, user-centric applic
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishanLucifer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=c9d1d9" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats-alpha-nine-30.vercel.app/api/top-langs/?username=KishanLucifer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=c9d1d9" alt="Top Languages" width="60%" />
 </div>
+
 
 ---
 
